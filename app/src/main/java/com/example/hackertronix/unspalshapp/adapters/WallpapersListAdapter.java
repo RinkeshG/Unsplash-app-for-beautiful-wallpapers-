@@ -1,4 +1,4 @@
-package com.example.hackertronix.unspalshapp.adapters;
+package com.example.unspalshapp.adapters;
 
 import android.content.Context;
 import android.content.Intent;

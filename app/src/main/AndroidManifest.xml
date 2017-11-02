@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.hackertronix.unspalshapp">
+    package="com.example.unspalshapp">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.SET_WALLPAPER" />
@@ -22,8 +22,7 @@
         <activity android:name="com.example.hackertronix.unspalshapp.Browse" />
 
         <meta-data
-            android:name="io.fabric.ApiKey"
-            android:value="f61375f6d805385167adaed63d0eb0ef1f66b7dd" />
+            android:name="io.fabric.ApiKey" />
 
         <activity android:name="com.example.hackertronix.unspalshapp.FullScreenImage" />
 

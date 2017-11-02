@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Walldo</string>
+    <string name="app_name">Unsplash app</string>
     <string name="sign_out">Sign Out</string>
     <string name="widget_name">Walldo</string>
     <string name="favorites">Favorites</string>

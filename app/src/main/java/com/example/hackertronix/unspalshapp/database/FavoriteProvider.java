@@ -18,7 +18,7 @@ import com.example.hackertronix.unspalshapp.database.FavoriteWallpaperContract.F
 
 public class FavoriteProvider extends ContentProvider {
 
-    private FavoriteDbHelper mDbHelper;
+    private com.example.unspalshapp.database.FavoriteDbHelper mDbHelper;
 
 
     private static final UriMatcher sUriMatcher = buildUriMatcher();
