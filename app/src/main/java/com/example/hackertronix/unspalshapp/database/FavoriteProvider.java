@@ -1,4 +1,4 @@
-package com.example.hackertronix.firebaseauthtest.database;
+package com.example.hackertronix.unspalshapp.database;
 
 import android.content.ContentProvider;
 import android.content.ContentUris;
@@ -12,11 +12,9 @@ import android.net.Uri;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 
-import com.example.hackertronix.firebaseauthtest.database.FavoriteWallpaperContract.FavoriteWallpaperEntry;
+import com.example.hackertronix.unspalshapp.database.FavoriteWallpaperContract.FavoriteWallpaperEntry;
 
-/**
- * Created by hackertronix on 20/03/17.
- */
+
 
 public class FavoriteProvider extends ContentProvider {
 

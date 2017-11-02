@@ -1,4 +1,4 @@
-package com.example.hackertronix.firebaseauthtest;
+package com.example.hackertronix.unspalshapp;
 
 import android.content.res.Configuration;
 import android.database.Cursor;
@@ -16,8 +16,8 @@ import android.util.Log;
 import android.view.View;
 import android.widget.TextView;
 
-import com.example.hackertronix.firebaseauthtest.adapters.FavoritesWallpaperAdapter;
-import com.example.hackertronix.firebaseauthtest.database.FavoriteWallpaperContract;
+import com.example.hackertronix.unspalshapp.adapters.FavoritesWallpaperAdapter;
+import com.example.hackertronix.unspalshapp.database.FavoriteWallpaperContract;
 
 public class Favorites extends AppCompatActivity implements LoaderManager.LoaderCallbacks<Cursor> {
 

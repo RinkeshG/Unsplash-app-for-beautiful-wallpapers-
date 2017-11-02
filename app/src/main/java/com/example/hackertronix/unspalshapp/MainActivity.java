@@ -1,4 +1,4 @@
-package com.example.hackertronix.firebaseauthtest;
+package com.example.hackertronix.unspalshapp;
 
 import android.app.ProgressDialog;
 import android.content.Context;
@@ -18,7 +18,6 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.crashlytics.android.answers.Answers;
 import com.crashlytics.android.Crashlytics;

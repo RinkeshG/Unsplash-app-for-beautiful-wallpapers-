@@ -1,4 +1,4 @@
-package com.example.hackertronix.firebaseauthtest.widget;
+package com.example.hackertronix.unspalshapp.widget;
 
 import android.content.Context;
 import android.content.Intent;
@@ -14,17 +14,15 @@ import android.widget.RemoteViews;
 import android.widget.RemoteViewsService;
 
 import com.bumptech.glide.Glide;
-import com.example.hackertronix.firebaseauthtest.R;
-import com.example.hackertronix.firebaseauthtest.database.FavoriteWallpaperContract.FavoriteWallpaperEntry;
-import com.example.hackertronix.firebaseauthtest.model.Wallpaper;
-import com.example.hackertronix.firebaseauthtest.utils.Utils;
+import com.example.hackertronix.unspalshapp.R;
+import com.example.hackertronix.unspalshapp.database.FavoriteWallpaperContract.FavoriteWallpaperEntry;
+import com.example.hackertronix.unspalshapp.model.Wallpaper;
+import com.example.hackertronix.unspalshapp.utils.Utils;
 
 import java.util.Objects;
 import java.util.concurrent.ExecutionException;
 
-/**
- * Created by hackertronix on 20/03/17.
- */
+
 
 public class FavoriteWidgetService extends RemoteViewsService {
 

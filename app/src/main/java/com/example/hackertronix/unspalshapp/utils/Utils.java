@@ -1,10 +1,7 @@
-package com.example.hackertronix.firebaseauthtest.utils;
+package com.example.hackertronix.unspalshapp.utils;
 
 import java.util.Random;
 
-/**
- * Created by hackertronix on 18/03/17.
- */
 
 public class Utils {
 
@@ -13,7 +10,7 @@ public class Utils {
     public static final String WIDTH="500";
     public static final String HEIGHT="750";
 
-    public static final String ACTION_DATABASE_UPDATED = "com.example.hackertronix.firebaseauthtest.utils.ACTION_DATA_UPDATED";
+    public static final String ACTION_DATABASE_UPDATED = "com.example.hackertronix.unspalshapp.utils.ACTION_DATA_UPDATED";
 
 
 

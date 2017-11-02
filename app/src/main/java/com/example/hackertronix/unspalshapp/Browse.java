@@ -1,4 +1,4 @@
-package com.example.hackertronix.firebaseauthtest;
+package com.example.hackertronix.unspalshapp;
 
 import android.app.ProgressDialog;
 import android.content.res.Configuration;
@@ -15,10 +15,10 @@ import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.hackertronix.firebaseauthtest.adapters.WallpapersListAdapter;
-import com.example.hackertronix.firebaseauthtest.model.Wallpaper;
-import com.example.hackertronix.firebaseauthtest.network.UnsplashService;
-import com.example.hackertronix.firebaseauthtest.utils.Utils;
+import com.example.hackertronix.unspalshapp.adapters.WallpapersListAdapter;
+import com.example.hackertronix.unspalshapp.model.Wallpaper;
+import com.example.hackertronix.unspalshapp.network.UnsplashService;
+import com.example.hackertronix.unspalshapp.utils.Utils;
 
 import java.util.ArrayList;
 import java.util.List;

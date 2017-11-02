@@ -1,4 +1,4 @@
-package com.example.hackertronix.firebaseauthtest.widget;
+package com.example.hackertronix.unspalshapp.widget;
 
 import android.annotation.TargetApi;
 import android.app.PendingIntent;
@@ -11,12 +11,9 @@ import android.content.Context;
 import android.content.Intent;
 import android.widget.RemoteViews;
 
-import com.example.hackertronix.firebaseauthtest.Favorites;
-import com.example.hackertronix.firebaseauthtest.R;
+import com.example.hackertronix.unspalshapp.Favorites;
+import com.example.hackertronix.unspalshapp.R;
 
-/**
- * Created by hackertronix on 20/03/17.
- */
 
 public class FavoriteWidgetProvider extends AppWidgetProvider {
     @Override

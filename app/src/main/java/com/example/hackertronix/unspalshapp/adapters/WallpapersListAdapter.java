@@ -1,4 +1,4 @@
-package com.example.hackertronix.firebaseauthtest.adapters;
+package com.example.hackertronix.unspalshapp.adapters;
 
 import android.content.Context;
 import android.content.Intent;
@@ -10,16 +10,13 @@ import android.widget.ImageView;
 
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.load.engine.DiskCacheStrategy;
-import com.example.hackertronix.firebaseauthtest.FullScreenImage;
-import com.example.hackertronix.firebaseauthtest.R;
-import com.example.hackertronix.firebaseauthtest.model.Wallpaper;
-import com.example.hackertronix.firebaseauthtest.utils.Utils;
+import com.example.hackertronix.unspalshapp.FullScreenImage;
+import com.example.hackertronix.unspalshapp.R;
+import com.example.hackertronix.unspalshapp.model.Wallpaper;
+import com.example.hackertronix.unspalshapp.utils.Utils;
 
 import java.util.ArrayList;
 
-/**
- * Created by hackertronix on 18/03/17.
- */
 
 public class WallpapersListAdapter extends RecyclerView.Adapter<WallpapersListAdapter.WallpaperViewHolder> {
 

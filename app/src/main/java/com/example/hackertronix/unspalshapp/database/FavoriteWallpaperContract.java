@@ -1,15 +1,12 @@
-package com.example.hackertronix.firebaseauthtest.database;
+package com.example.hackertronix.unspalshapp.database;
 
 import android.net.Uri;
 import android.provider.BaseColumns;
 
-/**
- * Created by hackertronix on 20/03/17.
- */
 
 public class FavoriteWallpaperContract {
 
-    public static final String AUTHORITY = "com.example.hackertronix.firebaseauthtest";
+    public static final String AUTHORITY = "com.example.hackertronix.unspalshapp";
     public static final Uri BASE_CONTENT_URI = Uri.parse("content://" + AUTHORITY);
 
 

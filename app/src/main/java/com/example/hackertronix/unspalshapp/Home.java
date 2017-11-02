@@ -1,4 +1,4 @@
-package com.example.hackertronix.firebaseauthtest;
+package com.example.hackertronix.unspalshapp;
 
 import android.content.Intent;
 import android.graphics.Color;

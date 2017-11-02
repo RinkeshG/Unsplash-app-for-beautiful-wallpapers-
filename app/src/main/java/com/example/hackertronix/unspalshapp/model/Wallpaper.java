@@ -1,11 +1,8 @@
-package com.example.hackertronix.firebaseauthtest.model;
+package com.example.hackertronix.unspalshapp.model;
 
 import android.os.Parcel;
 import android.os.Parcelable;
 
-/**
- * Created by hackertronix on 18/03/17.
- */
 
 public class Wallpaper implements Parcelable {
 

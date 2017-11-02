@@ -1,13 +1,11 @@
-package com.example.hackertronix.firebaseauthtest.database;
+package com.example.hackertronix.unspalshapp.database;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
-import com.example.hackertronix.firebaseauthtest.database.FavoriteWallpaperContract.FavoriteWallpaperEntry;
+import com.example.hackertronix.unspalshapp.database.FavoriteWallpaperContract.FavoriteWallpaperEntry;
 
-/**
- * Created by hackertronix on 20/03/17.
- */
+
 
 public class FavoriteDbHelper extends SQLiteOpenHelper {
 

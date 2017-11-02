@@ -1,4 +1,4 @@
-package com.example.hackertronix.firebaseauthtest;
+package com.example.hackertronix.unspalshapp;
 
 import android.app.WallpaperManager;
 import android.appwidget.AppWidgetManager;
@@ -33,10 +33,10 @@ import com.bumptech.glide.request.RequestListener;
 import com.bumptech.glide.request.animation.GlideAnimation;
 import com.bumptech.glide.request.target.SimpleTarget;
 import com.bumptech.glide.request.target.Target;
-import com.example.hackertronix.firebaseauthtest.model.Wallpaper;
-import com.example.hackertronix.firebaseauthtest.utils.Utils;
-import com.example.hackertronix.firebaseauthtest.database.FavoriteWallpaperContract.FavoriteWallpaperEntry;
-import com.example.hackertronix.firebaseauthtest.widget.FavoriteWidgetProvider;
+import com.example.hackertronix.unspalshapp.model.Wallpaper;
+import com.example.hackertronix.unspalshapp.utils.Utils;
+import com.example.hackertronix.unspalshapp.database.FavoriteWallpaperContract.FavoriteWallpaperEntry;
+import com.example.hackertronix.unspalshapp.widget.FavoriteWidgetProvider;
 
 import java.io.IOException;
 
